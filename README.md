@@ -10,7 +10,7 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/ForestFrog01/babel-scribe.git
+git clone https://github.com/bartdotdesign/babel-scribe.git
 cd babel-scribe
 bash setup.sh
 ```
