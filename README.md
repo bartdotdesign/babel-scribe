@@ -1,4 +1,5 @@
 # BabelScribe
+<p>Crafted by // <a href="https://bart.design/">bart.design</a></p>
 
 **Offline voice dictation for Claude Code.** Speak, and your words appear directly in the conversation. No audio leaves your machine.
 
@@ -6,6 +7,12 @@
 > *— The Hitchhiker's Guide to the Galaxy*
 >
 > Like the Babel Fish that translates any spoken language, **BabelScribe** translates your voice into text — right inside Claude Code. Powered by OpenAI's Whisper model, running 100% locally on your machine.
+
+## Why BabelScribe?
+
+- **100% offline** — no audio leaves your machine, full privacy
+- **Zero config** — one setup command, works across all your projects
+- **Hands-free coding** — speak naturally, text appears in Claude Code
 
 ## Quick Start
 
